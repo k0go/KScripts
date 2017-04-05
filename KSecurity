@@ -1,0 +1,27 @@
+command /pl:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
+
+command /bukit:?:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
+
+command /bukkit:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
+command /bukkit:plugins:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
+
+command /plugins:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
+command /bukkit:pl:
+	trigger:
+		send "&7[&2KSecurity&7] &6TU NIC NIE MA"
+
